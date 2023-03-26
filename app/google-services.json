@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318961398437",
+    "project_id": "textchat-app",
+    "storage_bucket": "textchat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318961398437:android:924cba4fb0d80131a7d34c",
+        "android_client_info": {
+          "package_name": "com.example.textchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318961398437-oq4nlf91hefbotojcki05v3e2qvvmc35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVc2NhglUBrLYg-cPJi3vEjNxZs6X8qbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318961398437-oq4nlf91hefbotojcki05v3e2qvvmc35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
